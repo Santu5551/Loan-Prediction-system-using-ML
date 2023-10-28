@@ -28,7 +28,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/loan-prediction-ml.git
+git clone https://github.com/Santu5551/Loan-Prediction-system-using-ML
 Change the working directory to the project folder:
 
 bash
